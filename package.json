@@ -10,8 +10,8 @@
   "keywords": [],
   "license": "MIT",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.3.2",
-    "parcel": "^2.3.2",
-    "sass": "^1.49.8"
+    "@parcel/transformer-sass": "^2.4.0",
+    "parcel": "^2.4.0",
+    "sass": "^1.49.9"
   }
 }
